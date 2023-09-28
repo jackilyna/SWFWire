@@ -3,7 +3,7 @@
    <!-- benchmark usage:
    <benchmark>boolean</benchmark>
    -->
-   <compiler>
+   <compiler> 
       <!-- compiler.accessible: generate an accessible SWF-->
       <accessible>true</accessible>
       <!-- compiler.actionscript-file-encoding: specifies actionscript file encoding. If there is no BOM in the AS3 source files, the compiler will use this file encoding.-->
