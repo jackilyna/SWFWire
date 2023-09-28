@@ -231,7 +231,7 @@
          <path-element>F:\www\swfwire.com\master\SWFWireInspector\src\classes</path-element>
          <path-element>F:\www\swfwire.com\master\SWFWireInspector\src\include</path-element>
          <path-element>F:\www\swfwire.com\master\SWFWireInspector\src\assets</path-element>
-      </source-path>
+      </source-path> 
       <!-- compiler.strict: runs the AS3 compiler in strict error checking mode.-->
       <strict>true</strict>
       <!-- compiler.theme: list of CSS or SWC files to apply as a theme-->
